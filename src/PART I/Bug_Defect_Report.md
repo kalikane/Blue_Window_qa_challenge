@@ -33,3 +33,11 @@ Fill all the mandatory field and filled out the Github field with a wrong url.
 ## To reproduice the bug:
 Fill all the mandatory field and filled out the linkedin field with a wrong url.
 
+# Bug ID: BUG-008
+## Title: Presence of Aministrator credential inside the html code
+## Description
+![img-bug-001]images/img-bug-008.png
+
+# Bug ID: BUG-009
+## Title: the Error message when last name field is left empty is not correct.
+## Description
